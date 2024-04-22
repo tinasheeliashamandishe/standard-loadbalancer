@@ -1,4 +1,4 @@
-<h1>Azure Load Balancer :Standard</h1>
+<h1>Azure Load Balancer : Standard</h1>
 
 <h2>Description</h2>
 This lab will show how a Standard Azure Loadbalancer works.<br/><br />
